@@ -13,13 +13,13 @@
 <tbody>
  <tr>
 <td align="center" width="20%">
-<span><b><center>ReactJS</center></b></span> 
-<img height=60px src="https://img.icons8.com/ultraviolet/2x/react.png"> 
+<span><b><center>Angular</center></b></span> 
+<img height=60px src="https://icons8.com/icon/71257/angularjs"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Swift</center></b></span> 
-<img height=60px src="https://img.icons8.com/fluent/96/swift.png"> 
+<span><b><center>Java</center></b></span> 
+<img height=60px src="https://icons8.com/icon/13679/java"> 
 </td>
 
 <td align="center" width="20%">
@@ -59,8 +59,8 @@
 
 
 <td align="center" width="20%">
-<span><b><center>Flutter</center></b></span> 
-<img height=65px src="https://img.icons8.com/color/2x/flutter.png"> 
+<span><b><center>CSS</center></b></span> 
+<img height=65px src="https://icons8.com/icon/13679/java"> 
 </td>
 </tr>
 
@@ -91,8 +91,8 @@ ____
 <h3 align="center"> Other Accounts 📫 </h3>
 <br />
 <p align="center">
-<a href="https://www.linkedin.com/in/piyushxbajaj/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/smrtdvlpr"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/diegobarbieri/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://instagram.com/Dieg.eg0"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
 </p>
 
