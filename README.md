@@ -96,15 +96,6 @@ ____
 
 </p>
 
-____
-
-
-<p align="center">
-
-⭐️ [piyushxbajaj](https://github.com/piyushxbajaj)
-
-</p>
-
 <!--
 **Diebbo/Diebbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
