@@ -14,12 +14,12 @@
  <tr>
 <td align="center" width="20%">
 <span><b><center>Angular</center></b></span> 
-<img height=60px src="https://icons8.com/icon/l9a5tcSnBwcf/angular"> 
+<img height=60px src="images/icons8-angular-24.png"> 
 </td>
 
 <td align="center" width="20%">
 <span><b><center>Java</center></b></span> 
-<img height=60px src="https://icons8.com/icon/13679/java"> 
+<img height=60px src="images/icons8-java-48.png"> 
 </td>
 
 <td align="center" width="20%">
@@ -60,7 +60,7 @@
 
 <td align="center" width="20%">
 <span><b><center>CSS</center></b></span> 
-<img height=65px src="https://icons8.com/icon/13679/java"> 
+<img height=65px src="images/icons8-css-48.png"> 
 </td>
 </tr>
 
