@@ -14,7 +14,7 @@
  <tr>
 <td align="center" width="20%">
 <span><b><center>Angular</center></b></span> 
-<img height=60px src="images/icons8-angular-24.png"> 
+<img height=60px src="images/icons8-angular-48.png"> 
 </td>
 
 <td align="center" width="20%">
