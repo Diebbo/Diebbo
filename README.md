@@ -28,7 +28,7 @@
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Nvim](https://img.shields.io/badge/-neovim-333333?style=flat&logo=rstudio)
+  ![Nvim](https://img.shields.io/badge/-Nvim-333333?style=flat&logo=neovim)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 - 🖥 &nbsp;
   ![Premiere](https://img.shields.io/badge/-Premiere-333333?style=flat&logo=adobepremierepro)
