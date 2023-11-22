@@ -2,11 +2,11 @@
 
 <h2> Hey there! I'm Diego.</h2>
 
-<h3> 👨🏻‍💻 &nbsp;Random Info</h3>
+<h3> 👨‍🎓 &nbsp;</h3>
 
 - 🤔 &nbsp; Porgramming my brain to program other machines.
 - 🎓 &nbsp; Studying Computer Science at ALMA Mater Studiorum in Bologna
-- 💼 &nbsp; Working as a Programmer.
+- 👨‍💻 &nbsp; while working as a Programmer.
 - 🎸 &nbsp; In my free time i play guitar.
 
 <h3> 👾 &nbsp;</h3>
