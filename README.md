@@ -2,19 +2,23 @@
 
 <h2> Hey there! I'm Diego.</h2>
 
-<h3> 👨‍🎓 &nbsp;</h3>
+<h3>Me</h3>
 
 - 🤔 &nbsp; Porgramming my brain to program other machines.
-- 🎓 &nbsp; Studying Computer Science at ALMA Mater Studiorum in Bologna
-- 👨‍💻 &nbsp; while working as a Programmer.
-- 🎸 &nbsp; In my free time i play guitar.
+- 🎓 &nbsp; Studying Computer Science at ALMA Mater Studiorum in Bologna, while working as a Programmer.
+- Fucking hate Sterotypes.
 
 <h3> 👾 &nbsp;</h3>
+ - Currently learing
+ 
+  ![Cybersecurity](https://img.shields.io/badge/-CyberSec-333333?style=flat&logo=python)
+  ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=python)
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=plastic&logo=coffeescript)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -32,6 +36,7 @@
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 - 🖥 &nbsp;
   ![Premiere](https://img.shields.io/badge/-Premiere-333333?style=flat&logo=adobepremierepro)
+  ![Excel](https://img.shields.io/badge/-Excel-333333?style=flat&logo=adobepremierepro)
 
 <br/>
 
@@ -45,5 +50,6 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.instagram.com/dieg.eg0/"><img alt="instagram" src="https://img.shields.io/badge/Instagram-violet?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/dieg.eg0/"><img alt="instagram" src="https://img.shields.io/badge/Instagram-purple?style=flat-square&logo=instagram"></a>
+<a href="https://www.leetcode.com/Diebbo"><img alt="leetcode" src="https://img.shields.io/badge/leetcode-black?style=flat-square&logo=leetcode"></a>
 </p>
