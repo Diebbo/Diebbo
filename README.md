@@ -11,8 +11,10 @@
 <h3> 👾 &nbsp;</h3>
  - Currently learing
  
-  ![Cybersecurity](https://img.shields.io/badge/-CyberSec-333333?style=flat&logo=python)
-  ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=python)
+  ![Cybersecurity](https://img.shields.io/badge/-hackthebox-333333?style=flat&logo=hackthebox)
+  ![Bash](https://img.shields.io/badge/-gnubash-333333?style=flat&logo=gnubash)
+
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/Diebbo?theme=dark&font=IBM%20Plex%20Mono&ext=activity)
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
