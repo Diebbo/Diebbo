@@ -9,14 +9,18 @@
 - Fucking hate Sterotypes.
 
 <h3> 👾 &nbsp;</h3>
- - Currently learing
+ - Currently on ...
  
   ![Cybersecurity](https://img.shields.io/badge/-hackthebox-333333?style=flat&logo=hackthebox)
   ![Bash](https://img.shields.io/badge/-gnubash-333333?style=flat&logo=gnubash)
+  
 <a href="https://leetcode.com/Diebbo">
+ 
   ![LeetCode Stats](https://leetcard.jacoblin.cool/Diebbo?theme=dark&font=IBM%20Plex%20Mono&ext=activity)
+  
 </a>
-- 💻 &nbsp;
+
+- &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=plastic&logo=coffeescript)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
