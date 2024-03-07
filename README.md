@@ -6,7 +6,6 @@
 
 - 🤔 &nbsp; Porgramming my brain to program other machines.
 - 🎓 &nbsp; Studying Computer Science at ALMA Mater Studiorum in Bologna, while working as a Programmer.
-- Fucking hate Sterotypes.
 
 <h3> 👾 &nbsp;</h3>
  - Currently on ...
