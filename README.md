@@ -7,20 +7,10 @@ You can check out my portfolio [here](https://diebbo.github.io/portfolio/)!.
 <h3>Me</h3>
 
 - 🤔 &nbsp; Porgramming my brain to program other machines.
-- 🎓 &nbsp; Studying Computer Science at ALMA Mater Studiorum in Bologna, while working as a Programmer.
+- 🎓 &nbsp; Studying Master in Computer Science at Aarhus University.
 
 <h3> 👾 &nbsp;</h3>
- - Currently on ...
- 
-  ![Cybersecurity](https://img.shields.io/badge/-hackthebox-333333?style=flat&logo=hackthebox)
-  ![Bash](https://img.shields.io/badge/-gnubash-333333?style=flat&logo=gnubash)
-  
-<a href="https://leetcode.com/Diebbo">
- 
-  ![LeetCode Stats](https://leetcard.jacoblin.cool/Diebbo?theme=dark&font=IBM%20Plex%20Mono&ext=activity)
-  
-</a>
-<br/>
+
 
 <a href="https://github.com/Diebbo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Diebbo&theme=radical&show_icons=true" />
@@ -28,3 +18,7 @@ You can check out my portfolio [here](https://diebbo.github.io/portfolio/)!.
 </a>
 
 <br/>
+
+<a href="https://leetcode.com/Diebbo">
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/Diebbo?theme=dark&font=IBM%20Plex%20Mono&ext=activity)
+</a>
