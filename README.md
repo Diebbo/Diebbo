@@ -20,5 +20,7 @@ You can check out my portfolio [here](https://diebbo.github.io/portfolio/)!.
 <br/>
 
 <a href="https://leetcode.com/Diebbo">
+  
   ![LeetCode Stats](https://leetcard.jacoblin.cool/Diebbo?theme=dark&font=IBM%20Plex%20Mono&ext=activity)
+
 </a>
